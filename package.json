@@ -1,0 +1,17 @@
+{
+  "name": "aula_1",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/decimal.js": "^7.4.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "decimal.js": "^10.6.0",
+    "zod": "^4.3.6"
+  }
+}
